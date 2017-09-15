@@ -1,5 +1,5 @@
 /**
- * @author Mr. Hoover and the AM Class
+ * @author Mr. Hoover and the class
  * This class implements a stack interface.  The stack is a First-In, Last-Out data structure (FILO).  We implement this stack using linked lists.
  */
 public class StackLL implements Stack
