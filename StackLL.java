@@ -29,7 +29,7 @@ public class StackLL implements Stack
 	}
 	
 	//add an object to the stack
-	/* Add an object to the stack.
+	/** Add an object to the stack.
 	 * @param x the object to be pushed to the stack.
 	 */
 	public void push(Object x)
@@ -85,7 +85,7 @@ public class StackLL implements Stack
 	
 	//our stack will never be full!
 	/**
-	 * Our stack is never full.
+	 * Our stack is never full, due to using a linked list.
 	 * @return false, always.
 	 */
 	public boolean isFull()
