@@ -1,5 +1,5 @@
 
-public interface Stack 
+public interface Stack
 {
 	public void push(Object x);
 	public Object pop();
